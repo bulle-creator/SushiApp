@@ -27,7 +27,7 @@ Ensuite j'ai utilisé toutes les informations qui sont dans la base de donnée:
 ## Réglement Général sur la Protection des Données  
 Dans le RGPD il y aurait mon nom, prenom, la forme juridique, numero de SIRET et mon adresse postal. Les informations pour me contacter (email et téléphone)
 et mon hébergeur (et un lien vers la CNIL ).
-Je vais aussi devoir expliquer aux utilisateurs la finalité de cette collecte de donnée et leur rapeller le droit d'utilisateur.
+Je vais aussi devoir expliquer aux utilisateurs la finalité de cette collecte de donnée et leur rappeler le droit d'utilisateur.
 
 ## Evil User Story
 
