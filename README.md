@@ -17,7 +17,7 @@ Pour pouvoir utiliser la base de donnée dans mon projet angulard, j'ai créer u
 ```
 ng generate service services/projetangulard
 ```
-Ensuite j'ai utiliser tout les informations qui sont dans la base de donnée:
+Ensuite j'ai utilisé toutes les informations qui sont dans la base de donnée:
 ```
 <td>{{sushiapi[0].nom}}</td><br>
 <td> Prix :{{sushiapi[0].prix}}</td> <br>
