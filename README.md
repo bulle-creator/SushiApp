@@ -25,14 +25,10 @@ Ensuite j'ai utilisé toutes les informations qui sont dans la base de donnée:
 ```
 
 ## Réglement Général sur la Protection des Données  
-Dans mon Rgpd il y aurait mon nom, prenom, la forme juridique, mon numero de SIRET, mon adresse postal. Les information pour me contacte (email et telephone)
+Dans le Rgpd il y aurait mon nom, prenom, la forme juridique, numero de SIRET et mon adresse postal. Les informations pour me contacte (email et telephone)
 et mon hébergeur(et un lien vers la cnil).
-Je vais aussi devoir explique aux utilisateur la finalité de cette collecte de donné et leur rapeller le droit d'utilisateur.
+Je vais aussi devoir expliquer aux utilisateur la finalité de cette collecte de donnée et leur rapeller le droit d'utilisateur.
 
 #Evil User Story
 
 En tant qu'utilisateur malveillant je souhaite avoir accés à la base de donné afin modifier le contenue de l'application web.
-
-
-
-
