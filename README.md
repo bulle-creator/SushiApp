@@ -13,11 +13,11 @@ En utilisant :
 ```
  res.setHeader('Acces-Control-Allow-Origin','*')
 ```
-Pour pouvoir utiliser la base de donnée dans mon projet angulard j'ai dû crée un service 
+Pour pouvoir utiliser la base de donnée dans mon projet angulard, j'ai créer un service 
 ```
 ng generate service services/projetangulard
 ```
-En suite j'ai utiliser tout les informations qui sont dans la base de donnée:
+Ensuite j'ai utiliser tout les informations qui sont dans la base de donnée:
 ```
 <td>{{sushiapi[0].nom}}</td><br>
 <td> Prix :{{sushiapi[0].prix}}</td> <br>
