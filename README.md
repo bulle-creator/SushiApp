@@ -8,16 +8,16 @@ Cette situation professionnelle repose sur le développement d’une application
 
 ## Utilisation d'une API pour Angular
 
-Lors de ce projet je vais devoir utiliser une base de donné donc je vais devoir relier mon projet angulard à mon API.  
+Lors de ce projet, je vais devoir utiliser une base de donnée donc devoir relier mon projet angulard à mon API.  
 En utilisant :
 ```
  res.setHeader('Acces-Control-Allow-Origin','*')
 ```
-Pour pouvoir utiliser les donnés dans la base de donnés dans mon projet angulard j'ai du crée un service 
+Pour pouvoir utiliser la base de donnée dans mon projet angulard j'ai dû crée un service 
 ```
 ng generate service services/projetangulard
 ```
-En suite j'ai utiliser tout les information qui sont dans la base de donné:
+En suite j'ai utiliser tout les informations qui sont dans la base de donnée:
 ```
 <td>{{sushiapi[0].nom}}</td><br>
 <td> Prix :{{sushiapi[0].prix}}</td> <br>
